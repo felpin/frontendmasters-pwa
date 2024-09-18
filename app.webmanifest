@@ -1,0 +1,9 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "name": "Codepad Masters, a unique tool to save your tasks",
+  "short_name": "C. Masters",
+  "display": "standalone",
+  "theme_color": "#ffc252"
+}
